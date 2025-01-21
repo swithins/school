@@ -1,0 +1,92 @@
+
+        body{
+            background-color: navajowhite;
+            font-family: cursive;
+            margin: 0;
+            padding: 0;
+        }
+        nav{
+            background-color: crimson;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 20px 0;
+        }
+        nav ul{
+            display: flex;
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+        }
+        nav ul li{
+            margin: 0 20px;
+        }
+        nav ul li a{
+            text-decoration: none;
+            font-size: 25px;
+            font-weight: bold;
+            color: brown;
+            padding: 10px 20px;
+            border-radius: 50px;
+
+        }
+        nav ul li a:hover{
+           background-color: turquoise;
+        }
+        h2{
+            font-family: cursive;
+            font-weight: bolder;
+            font-size: 50px;
+            color: skyblue;
+        }
+        .hero-image{
+            background-image: url("https://cdn.pixabay.com/photo/2017/05/29/20/46/hospital-2354845_640.jpg");
+            background-size: cover;
+            background-position: center;
+            height: 570px;
+            border-radius: 15px;
+            margin: 20px;
+        }
+        .about-us{
+            background-color: dimgray;
+            height: 90px;
+        }
+        .about{
+            background-color: blueviolet;
+            height:90px;
+        }
+        .section{
+            background-color: orangered;
+            height: 90px;
+        }
+        #one{
+            background-color: darkgoldenrod;
+            height: 90px;
+        }
+        #two{
+            background-color: deeppink;
+            height: 90px;
+        }
+        .image-one img{
+            height: 65vh;
+            width: 700px;
+
+        }
+        .image-two img{
+              height: 65vh;
+            width: 700px;
+
+        }
+        .image-three img{
+              height: 65vh;
+            width: 700px;
+
+        }
+        .image-four img{
+              height: 65vh;
+            width: 700px;
+
+        }
+        main{
+
+        }
